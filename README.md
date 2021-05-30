@@ -1,5 +1,7 @@
 # emergencydatahack
 
+Код, используемый для генерации лучшего submit лежит в паке 01_best_submit
+
 02_getting_additional_data.ipynb генерирует дополнительные данные реанализа и метеостанций.
 
 features_from_labels.ipynb агрегирует предоставленные и дополнительно собранные данные, проводит feature engineering и создаёт данные для обучения и тестирования. 
